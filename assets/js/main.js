@@ -195,7 +195,7 @@
   document.addEventListener("DOMContentLoaded", function () {
     const viewMoreBtn = document.getElementById("view-more-btn");
     const items = document.querySelectorAll(".portfolio-item");
-    const itemsToShowInitially = 6; // Number of items to show initially
+    const itemsToShowInitially = 4; // Number of items to show initially
     const itemsToShowOnMoreClick = 3; // Number of items to show on each click
   
     function checkScreenWidth() {
