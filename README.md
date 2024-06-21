@@ -27,7 +27,7 @@ This is my personal portfolio website where I share my professional journey, pro
 - **Frontend**: HTML, CSS, JavaScript
 - **Frameworks/Libraries**: Bootstrap
 - **Version Control**: Git, GitHub
-- **Deployment**: On render
+- **Deployment**: On Github Pages
 
 ## Link
 - [ https://soham0902.github.io/Portfolio/]( https://soham0902.github.io/Portfolio/)
