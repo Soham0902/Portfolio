@@ -27,10 +27,10 @@ This is my personal portfolio website where I share my professional journey, pro
 - **Frontend**: HTML, CSS, JavaScript
 - **Frameworks/Libraries**: Bootstrap
 - **Version Control**: Git, GitHub
-- **Deployment**: On render
+- **Deployment**: On Github Pages
 
 ## Link
-- [ https://soham0902.github.io/Portfolio/]( https://soham0902.github.io/Portfolio/)
+- [ https://soham0902.github.io/Portfolio/](https://soham0902.github.io/Portfolio/)
 
 ## Contact
 If you have any questions or would like to get in touch, please contact me via [Email](bhirangesoham1@gmail.com) or connect me with [LinkedIn](www.linkedin.com/in/soham-bhirange-166242211)
